@@ -21,8 +21,8 @@
 ![Circuit Diagram](images/circuit_diagram.jpg)
 
 각 LED는 다음과 같이 연결됩니다:
-- LED의 양극(긴 다리)을 330Ω 저항을 통해 해당 GPIO 핀에 연결
-- LED의 음극(짧은 다리)을 GND(접지)에 연결
+- LED의 양극(긴 다리)을 해당 GPIO 핀에 연결
+- LED의 음극(짧은 다리)을 330Ω 저항을 통해 GND(접지)에 연결
 
 ## 코드 설명
 
