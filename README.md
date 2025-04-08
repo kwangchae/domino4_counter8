@@ -18,18 +18,18 @@ repository-root/
 ├── domino4/
 │   ├── README.md         # LED 도미노 프로젝트 설명
 │   ├── domino4.sh        # LED 도미노 스크립트
-│   └── images/           # 회로 다이어그램 및 이미지
+│   └── images/           # 회로 이미지
 └── counter8/
     ├── README.md         # 3-비트 카운터 프로젝트 설명
     ├── counter8.sh       # 3-비트 카운터 스크립트
-    └── images/           # 회로 다이어그램 및 이미지
+    └── images/           # 회로 이미지
 ```
 
 ## 요구 사항
 
 - 라즈베리 파이 5
 - 최소 4개의 LED
-- 330Ω 저항 (LED 당 1개)
+- 저항 (LED 당 1개)
 - 브레드보드
 - 점퍼 와이어
 
