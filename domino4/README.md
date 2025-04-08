@@ -48,7 +48,7 @@ chmod +x domino4.sh
 
 ## 동작 영상
 
-
+[![동작 영상](https://img.youtube.com/vi/ZagnGnomUuo/0.jpg)](https://www.youtube.com/watch?v=ZagnGnomUuo)
 
 ## 구현 세부 사항
 

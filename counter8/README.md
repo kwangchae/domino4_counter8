@@ -59,7 +59,7 @@ chmod +x counter8.sh
 
 ## 동작 영상
 
-
+[![동작 영상](https://img.youtube.com/vi/PvLtl1sLlNQ/0.jpg)](https://www.youtube.com/watch?v=PvLtl1sLlNQ)
 
 ## 구현 세부 사항
 
