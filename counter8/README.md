@@ -10,15 +10,15 @@
 - 점퍼 와이어
 - 브레드보드
 
-## 핀 매핑
+## 핀맵
 
-- LED 1 (MSB): GPIO 27
-- LED 2: GPIO 18 
-- LED 3 (LSB): GPIO 17
+- LED 0 : GPIO 27 -> 보드의 핀 13
+- LED 1 : GPIO 18 -> 보드의 핀 12
+- LED 2 : GPIO 17 -> 보드의 핀 11
 
 ## 회로 구성
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Circuit Diagram](images/circuit.jpg)
 
 각 LED는 다음과 같이 연결됩니다:
 - LED의 양극(긴 다리)을 해당 GPIO 핀에 연결
