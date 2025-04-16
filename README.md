@@ -35,16 +35,16 @@ repository-root/
 │   ├── README.md         # 3-비트 카운터 프로젝트 설명
 │   ├── counter8.sh       # 3-비트 카운터 스크립트 (쉘)
 │   └── images/           # 회로 이미지
-├── counter16/            # 4-비트 이진 카운터 프로젝트
+├── bt_counter16/            # 4-비트 이진 카운터 프로젝트
 │   ├── README.md         # 4-비트 카운터 프로젝트 설명
 │   └── bt_counter16.py   # 버튼 제어 4-비트 카운터 (파이썬)
 ├── bt_domino4/           # 버튼 제어 LED 도미노 프로젝트
 │   ├── README.md         # 버튼 제어 도미노 프로젝트 설명
 │   └── bt_domino4.py     # 버튼 제어 도미노 스크립트 (파이썬)
-├── pressed/              # 버튼 누름 LED 제어 프로젝트
+├── bt_pressed/              # 버튼 누름 LED 제어 프로젝트
 │   ├── README.md         # 버튼 누름 LED 제어 프로젝트 설명
 │   └── bt_pressed.py     # 버튼 누름 LED 제어 스크립트 (파이썬)
-└── toggle/               # 버튼 토글 LED 제어 프로젝트
+└── bt_toggle/               # 버튼 토글 LED 제어 프로젝트
     ├── README.md         # 버튼 토글 LED 제어 프로젝트 설명
     └── bt_toggle.py      # 버튼 토글 LED 제어 스크립트 (파이썬)
 ```
