@@ -2,6 +2,10 @@
 
 이 프로젝트는 버튼을 눌러 여러 LED를 동시에 토글(켜고 끄기)하는 기능을 구현합니다.
 
+## 동작 영상
+
+[![동작 영상](https://img.youtube.com/vi/NiFIljaI5Mo/0.jpg)](https://www.youtube.com/watch?v=NiFIljaI5Mo)
+
 ## 하드웨어 구성 요소
 
 - 라즈베리 파이 5

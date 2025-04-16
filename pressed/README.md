@@ -4,7 +4,7 @@
 
 ## 동작 영상
 
-[![동작 영상](https://img.youtube.com/vi/NiFIljaI5Mo/0.jpg)](https://www.youtube.com/watch?v=NiFIljaI5Mo)
+[![동작 영상](https://img.youtube.com/vi/kKEEvFf1J6s/0.jpg)](https://www.youtube.com/watch?v=kKEEvFf1J6s)
 
 ## 하드웨어 구성 요소
 
